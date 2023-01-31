@@ -1,0 +1,32 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+      background-color:blue;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.font{
+    font-weight: bold;
+}
+.bg-color{
+    background-color: rgb(207, 134, 43);
+}
+.center{
+text-align: center;
+
+}
+.size{
+    size: 273px;
+}
